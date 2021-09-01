@@ -1,6 +1,6 @@
 # Olympus BX51WI DIC Alignment 
 
-This page is a cheat sheet guide for quickly aligning DIC optics. Read the [full BX51WI manual](../files/bx51-manual.pdf) for more complete information.
+This page is a cheat sheet guide for quickly aligning DIC optics. Read the [full BX51WI manual](../../files/bx51-manual.pdf) for more complete information.
 
 Lower Components|Upper Components
 ---|---
