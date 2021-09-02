@@ -7,7 +7,7 @@ Lower Components|Upper Components
 ![](images/scope-parts-lower.jpg)|![](images/scope-parts-upper.jpg)
 
 ## Prepare the light path
-  * remove `upper DIC prism`
+  * remove `adjustable DIC prism`
   * remove `condenser` (loosen the `condenser lock`)
   * insert `lower polarizer`
   * insert `analyzer`
