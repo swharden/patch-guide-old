@@ -9,11 +9,11 @@ Lower Components|Upper Components
 ## Prepare the light path
   * remove `adjustable DIC prism`
   * remove `condenser` (loosen the `condenser lock`)
+  * insert `IR filter`
   * insert `lower polarizer`
   * insert `analyzer`
   * insert `10x objective`
   * Ensure the `path selector` is fully out (all light to camera)
-  * remove `IR filter` and observe visible light
   * fully open `aperture iris` (clockwise)
 
 > **Check for Camera Dirt:** If there are black spots on the image it is likely because the glass covering the CCD sensor on the camera requires cleaning. Cleaning can be achieved using a lens cloth and compressed air.
